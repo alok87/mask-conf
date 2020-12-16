@@ -5,6 +5,7 @@ non_pii_keys:
     - source
     - type
     - createdAt
+    - tryingNewRow
     - updatedAt
     establishments:
     - id
