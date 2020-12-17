@@ -3,6 +3,7 @@ non_pii_keys:
     - id
     - city
     - location
+    - location1
     justifications:
     - source
     - type
