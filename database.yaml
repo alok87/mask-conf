@@ -3,6 +3,7 @@ non_pii_keys:
     - id
     - city
     - location
+    - location2
     - location1
     - location2
     - location22
