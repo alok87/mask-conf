@@ -5,9 +5,10 @@ non_pii_keys:
     - location
     - location1
     - location2
-    - location2
-    - location3
+    - location22
+    - location5
     - location4
+    - locatio5n
     justifications:
     - source
     - type
