@@ -2,7 +2,6 @@ non_pii_keys:
     customers:
     - id
     - first_name
-    - last_name
     - email
     orders:
     - order_date
