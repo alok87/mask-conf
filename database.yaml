@@ -3,6 +3,7 @@ non_pii_keys:
     - id
     - first_name
     - email
+    - last_name
     orders:
     - order_date
     justifications:
